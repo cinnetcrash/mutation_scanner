@@ -35,3 +35,9 @@ print(result_unique_mutations)
 
 # Printing the mutation counts for each tool
 print(result_mutation_counts)
+
+Feel free to use these R functions and code snippets in your projects and customize them to suit your specific needs. The sample_mutation_counts function will help you obtain mutation counts for each sample and tool, while the find_muts function can be utilized to extract unique, same, and other mutations for a given tool. Additionally, the provided code snippets demonstrate how to calculate mutation counts for each tool and identify unique mutation counts for the 'hybrid' method.
+
+Author: Ege Dedeoğlu, Gültekin Ünal
+
+License: MIT License, 2023
